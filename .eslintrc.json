@@ -29,6 +29,7 @@
   ],
   "rules": {
     "prettier/prettier": "error",
+    "react/jsx-one-expression-per-line": "off",
     "react-books/rules-of-books": "error",
     "react-hooks/exhanstive-deps": "warn",
     "react/jsx-filename-extension": [1, { "extensions": [".tsx"] }],
